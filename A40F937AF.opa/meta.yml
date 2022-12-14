@@ -1,0 +1,20 @@
+id: A40F937AF
+title: Toh_78-The_Questions_of_Gunaratnasankusumita-v2
+type: translation
+pechas:
+- I780DC96E
+- I19244116
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-043-015
+  eft-text-version: 1.0.6 2020
+  title: Toh_78-The_Questions_of_Gunaratnasankusumita-v2
+alignment_to_base:
+  I780DC96E/77DA: B1AB
+  I19244116/D4EA: B1AB
